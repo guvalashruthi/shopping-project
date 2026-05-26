@@ -1,0 +1,20 @@
+1, Laptop, Electronics, 55000, Dell Inspiron 15
+2, Smartphone, Electronics, 25000, Samsung Galaxy M14
+3, Headphones, Accessories, 1500, Boat Rockerz 450
+4, Smart Watch, Accessories, 3000, Noise ColorFit
+5, Refrigerator, Home Appliances, 42000, LG Double Door
+6, Washing Machine, Home Appliances, 38000, Samsung Front Load
+7, Microwave Oven, Kitchen Appliances, 12000, IFB 20L
+8, Air Conditioner, Home Appliances, 45000, Daikin 1.5 Ton
+9, Television, Electronics, 60000, Sony Bravia 55 Inch
+10, Printer, Electronics, 8500, HP Ink Tank 310
+11, Keyboard, Accessories, 1200, Logitech Wired Keyboard
+12, Mouse, Accessories, 700, HP Wireless Mouse
+13, Tablet, Electronics, 28000, Lenovo Tab M10
+14, Speaker, Accessories, 2500, JBL Bluetooth Speaker
+15, Camera, Electronics, 75000, Canon DSLR EOS 1500D
+16, Power Bank, Accessories, 1800, Mi Power Bank 20000mAh
+17, Router, Networking, 2200, TP-Link WiFi Router
+18, SSD, Storage, 5000, Samsung 1TB SSD
+19, Pendrive, Storage, 650, Sandisk 64GB USB
+20, Gaming Console, Electronics, 45000, Sony PlayStation 5

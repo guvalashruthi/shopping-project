@@ -1,0 +1,20 @@
+101, 1, Shruthi, Laptop, 1, 55000, Delivered
+102, 3, Ramesh, Headphones, 2, 3000, Shipped
+103, 5, Suresh, Refrigerator, 1, 42000, Processing
+104, 2, Kavya, Smartphone, 1, 25000, Delivered
+105, 10, Anil, Printer, 1, 8500, Cancelled
+106, 7, Priya, Microwave Oven, 1, 12000, Delivered
+107, 12, Rahul, Mouse, 3, 2100, Shipped
+108, 14, Sneha, Speaker, 2, 5000, Processing
+109, 9, Arjun, Television, 1, 60000, Delivered
+110, 6, Divya, Washing Machine, 1, 38000, Shipped
+111, 18, Kiran, SSD, 2, 10000, Delivered
+112, 20, Varun, Gaming Console, 1, 45000, Processing
+113, 4, Meena, Smart Watch, 2, 6000, Delivered
+114, 15, Harsha, Camera, 1, 75000, Shipped
+115, 11, Pooja, Keyboard, 1, 1200, Delivered
+116, 16, Vikas, Power Bank, 2, 3600, Processing
+117, 13, Nikhil, Tablet, 1, 28000, Delivered
+118, 8, Lavanya, Air Conditioner, 1, 45000, Shipped
+119, 19, Sai, Pendrive, 4, 2600, Delivered
+120, 17, Deepika, Router, 1, 2200, Cancelled
