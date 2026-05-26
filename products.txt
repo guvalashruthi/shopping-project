@@ -18,3 +18,6 @@
 18, SSD, Storage, 5000, Samsung 1TB SSD
 19, Pendrive, Storage, 650, Sandisk 64GB USB
 20, Gaming Console, Electronics, 45000, Sony PlayStation 5
+4, Smart Watch, Accessories, 3000, Noise ColorFit
+5, Refrigerator, Home Appliances, 42000, LG Double Door
+6, Printer, Electronics, 8500, HP Ink Tank 310
