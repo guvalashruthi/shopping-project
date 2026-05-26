@@ -18,3 +18,6 @@
 118, 8, Lavanya, Air Conditioner, 1, 45000, Shipped
 119, 19, Sai, Pendrive, 4, 2600, Delivered
 120, 17, Deepika, Router, 1, 2200, Cancelled
+101, Laptop, 2, 110000
+102, Headphones, 1, 1500
+103, Smart Watch, 1, 3000
